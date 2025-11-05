@@ -1,3 +1,27 @@
+
+
+
+
+
+
+
+// Revisiting Objects & Classes 
+// How to create an object 
+// const user = {
+//     name: "Jake",
+//     age: 39,
+//     greet() {
+//         console.log("hello!", user.name);
+//         console.log(this.age);
+//     }
+// };
+// use dot notation to access a value in an object
+// console.log(user);
+// console.log(user.name);
+// console.log(user.age);
+// user.greet();
+
+
 // Arrow functions aka anonamous functions 
 
 // anonamous function that doesn't have a name
@@ -6,9 +30,9 @@
 //}
 
 // anamous functions also can be written 
-export default() => {
-    console.log('Hello'); 
-}
+//export default() => {
+    //console.log('Hello'); 
+//}
 
 /*
 More on the Arrow Function Syntax
