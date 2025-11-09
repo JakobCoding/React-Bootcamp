@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 // DESTRUCTURING ARRAYS & OBJECTS
 //const userName = ["Jake", "Chalmers"];
 
@@ -13,9 +26,6 @@
 
 // console.log(userName);
 // console.log(age); 
-
-
-
 
 
 // Array & Array Methods like map()
