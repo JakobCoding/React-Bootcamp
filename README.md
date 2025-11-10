@@ -64,7 +64,7 @@ It’s a hands-on demonstration of practical React knowledge, applied across mul
 
 👉 Let’s Connect
 
-If you’d like to discuss React, modern web development, or potential collaboration opportunities:
+If you’d like to discuss React, Modern web development, or potential collaboration opportunities:
 
  
 🔗 [LinkedIn](https://www.linkedin.com/in/jakechalmers86/)  
